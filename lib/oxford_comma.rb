@@ -6,9 +6,8 @@ if array.length == 1
  return array.join(" and ")
  
  elsif array.length == 3
- 
  return 
  
- end 
+  end 
  end
  
