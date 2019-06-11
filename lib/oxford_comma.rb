@@ -7,7 +7,7 @@ if array.length == 1
  
  elsif array.length >= 3
     new_last_array_item = "and #{array[-1]}"
-    array.pop
+##    array.pop
     array.push(new_last_array_item)
     return array.join(", ")
   end
